@@ -1,2 +1,2 @@
 # Unblog
-Unblog is your go-to documentation page, written to guide people on how to bypass your schools internet restrictions and other school related topics.
+Unblog is your go-to blog page, written to guide you on how to bypass your schools internet restrictions and other school related topics.
